@@ -1,0 +1,10 @@
+C:\Users\USER\source\repos\GraphGame\GraphGame\bin\Debug\GraphGame.exe.config
+C:\Users\USER\source\repos\GraphGame\GraphGame\bin\Debug\GraphGame.exe
+C:\Users\USER\source\repos\GraphGame\GraphGame\bin\Debug\GraphGame.pdb
+C:\Users\USER\source\repos\GraphGame\GraphGame\obj\Debug\GraphGame.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\GraphGame\GraphGame\obj\Debug\GraphGame.Form1.resources
+C:\Users\USER\source\repos\GraphGame\GraphGame\obj\Debug\GraphGame.Properties.Resources.resources
+C:\Users\USER\source\repos\GraphGame\GraphGame\obj\Debug\GraphGame.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\GraphGame\GraphGame\obj\Debug\GraphGame.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\GraphGame\GraphGame\obj\Debug\GraphGame.exe
+C:\Users\USER\source\repos\GraphGame\GraphGame\obj\Debug\GraphGame.pdb
